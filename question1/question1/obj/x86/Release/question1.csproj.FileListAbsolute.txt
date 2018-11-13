@@ -1,0 +1,6 @@
+C:\Users\Shavi\AppData\Local\Temporary Projects\question1\bin\Release\question1.exe
+C:\Users\Shavi\AppData\Local\Temporary Projects\question1\bin\Release\question1.pdb
+C:\Users\Shavi\AppData\Local\Temporary Projects\question1\obj\x86\Release\question1.exe
+C:\Users\Shavi\AppData\Local\Temporary Projects\question1\obj\x86\Release\question1.pdb
+C:\Users\Shavi\documents\visual studio 2010\Projects\question1\question1\obj\x86\Release\question1.exe
+C:\Users\Shavi\documents\visual studio 2010\Projects\question1\question1\obj\x86\Release\question1.pdb

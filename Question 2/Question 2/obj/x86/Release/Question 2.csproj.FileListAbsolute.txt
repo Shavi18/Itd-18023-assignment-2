@@ -1,0 +1,5 @@
+C:\Users\Shavi\Documents\Visual Studio 2010\Projects\Question 2\Question 2\obj\x86\Release\Question 2.csprojResolveAssemblyReference.cache
+C:\Users\Shavi\Documents\Visual Studio 2010\Projects\Question 2\Question 2\bin\Release\Question 2.exe
+C:\Users\Shavi\Documents\Visual Studio 2010\Projects\Question 2\Question 2\bin\Release\Question 2.pdb
+C:\Users\Shavi\Documents\Visual Studio 2010\Projects\Question 2\Question 2\obj\x86\Release\Question 2.exe
+C:\Users\Shavi\Documents\Visual Studio 2010\Projects\Question 2\Question 2\obj\x86\Release\Question 2.pdb
